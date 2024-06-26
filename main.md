@@ -6,8 +6,4 @@
 #Methods
 
 #Outline Set up
-
-What do you think about this paper :
-
-New Changes to see if this pushes
-
+What do you think about this paper : It looks awesome!
