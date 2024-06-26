@@ -1,11 +1,11 @@
 #Author: Aandishah
 ## Drought Paper
 
-#Introduction 
+#Introduction
 
 #Methods
 
-#Outline Set up 
+#Outline Set up
 
 What do you think about this paper :
- 
+
