@@ -7,5 +7,5 @@
 
 #Outline Set up 
 
-What do you think about this paper :
+What do you think about this paper : It looks awesome!
  
